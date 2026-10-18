@@ -1,9 +1,7 @@
+![banner](https://github.com/mortalpirata107/mortalpirata107/blob/main/banner.jpeg?raw=true)
+
 <div align="center">
-  <img src="banner.jpg" alt="Enigma Banner" width="100%" style="border-radius: 12px;" />
-
   <br />
-  <br />
-
   <img src="https://img.shields.io/badge/FRONT--END_DEV-0d1117?style=for-the-badge&logo=react&logoColor=ff2a2a&labelColor=000000" alt="Front-End Dev" />
   <img src="https://img.shields.io/badge/MINECRAFT_SYSTEMS-0d1117?style=for-the-badge&logo=openjdk&logoColor=ff2a2a&labelColor=000000" alt="Minecraft Systems" />
   <img src="https://img.shields.io/badge/UI_%2F_UX_DESIGN-0d1117?style=for-the-badge&logo=css3&logoColor=ff2a2a&labelColor=000000" alt="UI/UX Design" />
