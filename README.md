@@ -134,7 +134,7 @@ current_focus: "Scaling EnigmaCraft Network & Mezzo Forte Platform"
   <h3>🌐 Connect & Community</h3>
   <p>Join the server network or check out my latest videos and devlogs:</p>
   
-  <a href="https://dc.gg/enigmacraft.net" target="_blank">
+  <a href="https://dc.gg/enigmastudios" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-dc.gg%2Fenigmacraft.net-0a0a0d?style=for-the-badge&logo=discord&logoColor=white&labelColor=FF1E27" alt="Discord" />
   </a>
   &nbsp;&nbsp;&nbsp;
