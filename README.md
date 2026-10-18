@@ -1,11 +1,17 @@
 <div align="center">
-  <!-- Cambia "banner.png" por el nombre exacto de la imagen que subas a tu repositorio -->
-  <img src="banner.png" alt="Santiago Banner" width="100%" style="border-radius: 10px;" />
+  <img src="banner.jpg" alt="Enigma Banner" width="100%" style="border-radius: 12px;" />
+
+  <br />
+  <br />
+
+  <img src="https://img.shields.io/badge/FRONT--END_DEV-0d1117?style=for-the-badge&logo=react&logoColor=ff2a2a&labelColor=000000" alt="Front-End Dev" />
+  <img src="https://img.shields.io/badge/MINECRAFT_SYSTEMS-0d1117?style=for-the-badge&logo=openjdk&logoColor=ff2a2a&labelColor=000000" alt="Minecraft Systems" />
+  <img src="https://img.shields.io/badge/UI_%2F_UX_DESIGN-0d1117?style=for-the-badge&logo=css3&logoColor=ff2a2a&labelColor=000000" alt="UI/UX Design" />
 </div>
 
 <br />
 
-# Hi there! I'm Santiago 👋
+## ⚡ Hi there! I'm Enigma 👋
 
 Developer focused on building modern web interfaces, custom gaming ecosystems, and interactive experiences. Welcome to my GitHub profile! I love Front-End Web Development (especially *Liquid Glass* / Glassmorphism UI), Minecraft Server & Plugin Development, and Game Prototyping...
 
@@ -19,37 +25,28 @@ Developer focused on building modern web interfaces, custom gaming ecosystems, a
 * **Tools & Environment:** Git, GitHub, VS Code, Linux...
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,java,cs,lua,unity,git,github,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,java,cs,lua,unity,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 ---
 
 ### 📌 Featured Projects
 
-* 🚀 **[EnigmaCraft](#)** – Custom Minecraft server ecosystem featuring tailored plugins, database integration, and a custom Tebex web store.
-* 🎵 **[Mezzo Forte](#)** – Modern web platform designed to promote local cultural events, classical concerts, and wine tastings.
-
-*(Nota: Sustituye los `#` entre paréntesis por los enlaces reales a tus repositorios o páginas web)*
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <!-- Sustituye TU_USUARIO_GITHUB por tu nick real de GitHub en los dos enlaces de abajo -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff2a2a&icon_color=ff2a2a&text_color=c9d1d9&border_color=30363d" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=dark&bg_color=0d1117&title_color=ff2a2a&text_color=c9d1d9&border_color=30363d" />
-</div>
+| Project | Category | Overview |
+| :--- | :--- | :--- |
+| 🚀 **EnigmaCraft** | `Minecraft Network` | Custom Minecraft server ecosystem featuring tailored plugins, database integration, and a custom Tebex web store. |
+| 🎵 **Mezzo Forte** | `Web Platform` | Modern web platform designed to promote local cultural events, classical concerts, and wine tastings. |
+| 🕹️ **2D Sandbox** | `Game Dev` | Indie game prototypes and custom mechanics developed in Unity (C#) and Lua. |
 
 ---
 
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://discord.gg/TU_INVITACION" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://dc.gg/enigmacraft.net" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=ff2a2a" alt="Discord" />
   </a>
-  <a href="https://x.com/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  <a href="https://www.youtube.com/@Enigma_Craft" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=ff2a2a" alt="YouTube" />
   </a>
 </p>
